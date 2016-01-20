@@ -1,0 +1,18 @@
+#include salut
+#include chuuutt
+
+int main;
+{
+    int lel, kek;
+  
+    kek=10;
+  
+    for(lel=0;lel<=kek; lel++)
+    {
+      lel=kek;
+      lel++;
+    }
+    printf("kek = %d", lel);
+  
+  return 0;
+}
