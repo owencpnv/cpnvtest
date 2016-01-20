@@ -1,9 +1,10 @@
 #include salut
 #include chuuutt
 
-int main;
+int main()
 {
-    int lel, kek;
+    int lel,
+        kek;
   
     kek=10;
   
